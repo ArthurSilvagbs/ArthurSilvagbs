@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArthurSilvagbs/ArthurSilvagbs/main/assets/banner.png" alt="Arthur Gabriel Banner" />
-</p>
 <h1 align="center">👨‍💻 Olá! Eu sou o Arthur Gabriel</h1>
 
 <p align="center">
