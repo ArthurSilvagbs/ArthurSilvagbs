@@ -63,7 +63,7 @@ Hoje, estou focado em aprender e evoluir como desenvolvedor **back-end em Java**
 
 ---
 
-### 📫 Contato
+### Contato
 
 📧 arthur.gbs.dev@gmail.com  
 📍 Brasília, DF  
