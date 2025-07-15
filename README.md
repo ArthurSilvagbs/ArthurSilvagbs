@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Arthur Gabriel 👋</h1>
+<p align="center">
+  <i>Estudante de ADS • Focado em Back-End • Projetista Técnico</i>
+</p>
 
-<!--
-**ArthurSilvagbs/ArthurSilvagbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou natural de Brasília-DF e atualmente curso Análise e Desenvolvimento de Sistemas na UCB. Meu interesse por tecnologia surgiu ainda na escola, em atividades práticas com lógica e programação básica. Com o tempo, fui me aprofundando na área de desenvolvimento e infraestrutura, conciliando experiência prática com o estudo acadêmico.
+
+Hoje, estou focado em aprender e evoluir como desenvolvedor **back-end em Java**, com interesse futuro em automações e Inteligência Artificial. Busco construir uma trajetória sólida e ética, contribuindo com soluções que agreguem valor à vida das pessoas — e claro, garantir uma carreira estável e desafiadora.
+
+---
+
+### 💼 Experiência
+
+🔧 **Projetista Orçamentista – SS Inovatec** (2024 - atual)  
+• Desenvolvimento de projetos técnicos em AutoCAD  
+• Instalação de redes, CFTV e sonorização  
+• Especificação e integração de equipamentos Intelbras
+
+🏆 **Desafio Liga Jovem – Semifinalista (2023)**  
+• Projeto social de educação sexual infantil com impacto nacional  
+• Apresentado no Bossa Summit, em São Paulo
+
+---
+
+### 🚀 Tecnologias que uso ou estudo
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python (futuro)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator"/>
+</div>
+
+---
+
+### 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArthurGabrielBS&show_icons=true&theme=dark&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGabrielBS&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+### 📌 O que você encontrará aqui?
+
+- Projetos e desafios em Java  
+- Exercícios e estudos da faculdade  
+- Protótipos, testes e práticas de lógica  
+- Aprendizado constante
+
+---
+
+### 📫 Contato
+
+📧 arthur.gbs.dev@gmail.com  
+📍 Brasília, DF  
+🔗 [LinkedIn](https://www.linkedin.com/in/arthur-gabriel-borges-silva)
+
+---
+
+> _“Quanto mais eu aprendo, mais percebo o quanto ainda não sei.”_
