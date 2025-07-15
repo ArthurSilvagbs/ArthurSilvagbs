@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Estudante de ADS</strong> &nbsp;|&nbsp;
-  <strong>Focado em Back-End</strong> &nbsp;|&nbsp;
+  <strong>Back-End</strong> &nbsp;|&nbsp;
   <strong>Projetista Técnico</strong>
 </p>
 
@@ -20,7 +20,7 @@
 
 ### Sobre mim
 
-Sou natural de Brasília-DF e atualmente curso Análise e Desenvolvimento de Sistemas na UCB. Meu interesse por tecnologia surgiu ainda na escola, em atividades práticas com lógica e programação básica. Com o tempo, fui me aprofundando na área de desenvolvimento e infraestrutura, conciliando experiência prática com o estudo acadêmico.
+Sou de Brasília-DF e atualmente curso Análise e Desenvolvimento de Sistemas na UCB. Meu interesse por tecnologia surgiu ainda na escola, em atividades práticas com lógica e programação básica. Com o tempo, fui me aprofundando na área de desenvolvimento e infraestrutura, conciliando experiência prática com o estudo acadêmico.
 
 Hoje, estou focado em aprender e evoluir como desenvolvedor **back-end em Java**. Também tenho uma base em **design gráfico e UI/UX**, adquirida com o uso de ferramentas como Adobe Photoshop, Illustrator e construtores visuais como o Divi Builder. Busco construir uma trajetória sólida e ética, contribuindo com soluções que agreguem valor à vida das pessoas — e claro, garantir uma carreira estável e desafiadora.
 
