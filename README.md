@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Olá! Eu sou o Arthur Gabriel</h1>
+<h1 align="center">Olá! Eu sou o Arthur Gabriel</h1>
 
 <p align="center">
   <strong>Estudante de ADS</strong> &nbsp;|&nbsp;
@@ -18,7 +18,7 @@
 
 ---
 
-### 🧠 Sobre mim
+### Sobre mim
 
 Sou natural de Brasília-DF e atualmente curso Análise e Desenvolvimento de Sistemas na UCB. Meu interesse por tecnologia surgiu ainda na escola, em atividades práticas com lógica e programação básica. Com o tempo, fui me aprofundando na área de desenvolvimento e infraestrutura, conciliando experiência prática com o estudo acadêmico.
 
@@ -26,20 +26,20 @@ Hoje, estou focado em aprender e evoluir como desenvolvedor **back-end em Java**
 
 ---
 
-### 💼 Experiência
+### Experiência
 
-🔧 **Projetista Orçamentista – SS Inovatec** (2024 - atual)  
+**Projetista Orçamentista – SS Inovatec** (2024 - atual)  
 • Desenvolvimento de projetos técnicos em AutoCAD  
 • Instalação de redes, CFTV e sonorização  
 • Especificação e integração de equipamentos Intelbras
 
-🏆 **Desafio Liga Jovem – Semifinalista (2023)**  
+**Desafio Liga Jovem – Semifinalista (2023)**  
 • Projeto social de educação sexual infantil com impacto nacional  
 • Apresentado no Bossa Summit, em São Paulo
 
 ---
 
-### 🚀 Tecnologias que uso ou estudo
+### Tecnologias que uso ou estudo
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" height="40" alt="Java" />
@@ -53,7 +53,7 @@ Hoje, estou focado em aprender e evoluir como desenvolvedor **back-end em Java**
 
 ---
 
-### 📌 O que você encontrará aqui?
+### O que você encontrará aqui?
 
 - - Projetos e desafios em Java  
 - Exercícios e estudos da faculdade  
