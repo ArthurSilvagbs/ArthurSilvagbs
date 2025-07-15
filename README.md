@@ -22,7 +22,7 @@
 
 Sou natural de Brasília-DF e atualmente curso Análise e Desenvolvimento de Sistemas na UCB. Meu interesse por tecnologia surgiu ainda na escola, em atividades práticas com lógica e programação básica. Com o tempo, fui me aprofundando na área de desenvolvimento e infraestrutura, conciliando experiência prática com o estudo acadêmico.
 
-Hoje, estou focado em aprender e evoluir como desenvolvedor **back-end em Java**, com interesse futuro em automações e Inteligência Artificial. Busco construir uma trajetória sólida e ética, contribuindo com soluções que agreguem valor à vida das pessoas — e claro, garantir uma carreira estável e desafiadora.
+Hoje, estou focado em aprender e evoluir como desenvolvedor **back-end em Java**. Também tenho uma base em **design gráfico e UI/UX**, adquirida com o uso de ferramentas como Adobe Photoshop, Illustrator e construtores visuais como o Divi Builder. Busco construir uma trajetória sólida e ética, contribuindo com soluções que agreguem valor à vida das pessoas — e claro, garantir uma carreira estável e desafiadora.
 
 ---
 
@@ -42,23 +42,24 @@ Hoje, estou focado em aprender e evoluir como desenvolvedor **back-end em Java**
 ### 🚀 Tecnologias que uso ou estudo
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python (futuro)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator"/>
+  <img src="https://img.icons8.com/color/48/wordpress.png" height="40" alt="WordPress"/>
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" height="40" alt="Photoshop"/>
+  <img src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" height="40" alt="Illustrator"/>
 </div>
 
 ---
 
 ### 📌 O que você encontrará aqui?
 
-- Projetos e desafios em Java  
+- - Projetos e desafios em Java  
 - Exercícios e estudos da faculdade  
 - Protótipos, testes e práticas de lógica  
-- Aprendizado constante
+- Aprendizado constante  
+- Elementos de design, front-end e UI/UX  
 
 ---
 
