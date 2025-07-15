@@ -7,9 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:arthur.gbs.dev@gmail.com"><img src="https://img.shields.io/badge/Email-arthur.gbs.dev@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/arthur-gabriel-borges-silva/"><img src="https://img.shields.io/badge/LinkedIn-Arthur%20Gabriel-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:arthur.gbs.dev@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-gabriel-borges-silva/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
@@ -65,4 +70,5 @@ Hoje, estou focado em aprender e evoluir como desenvolvedor **back-end em Java**
 
 ---
 
-> _“Quanto mais eu aprendo, mais percebo o quanto ainda não sei.”_
+> _“A parte mais perigosa de qualquer coisa é pensar que você sabe o suficiente.”_  
+> — **Neil deGrasse Tyson**
