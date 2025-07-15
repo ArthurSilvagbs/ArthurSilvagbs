@@ -1,6 +1,14 @@
-<h1 align="center">Olá! Eu sou o Arthur Gabriel 👋</h1>
+<h1 align="center">👨‍💻 Olá! Eu sou o Arthur Gabriel</h1>
+
 <p align="center">
-  <i>Estudante de ADS • Focado em Back-End • Projetista Técnico</i>
+  <strong>Estudante de ADS</strong> &nbsp;|&nbsp;
+  <strong>Focado em Back-End</strong> &nbsp;|&nbsp;
+  <strong>Projetista Técnico</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:arthur.gbs.dev@gmail.com"><img src="https://img.shields.io/badge/Email-arthur.gbs.dev@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arthur-gabriel-borges-silva/"><img src="https://img.shields.io/badge/LinkedIn-Arthur%20Gabriel-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
