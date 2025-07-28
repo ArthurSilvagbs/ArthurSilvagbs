@@ -55,7 +55,7 @@ Hoje, estou focado em aprender e evoluir como desenvolvedor **back-end em Java**
 
 ### O que você encontrará aqui?
 
-- - Projetos e desafios em Java  
+- Projetos e desafios em Java  
 - Exercícios e estudos da faculdade  
 - Protótipos, testes e práticas de lógica  
 - Aprendizado constante  
