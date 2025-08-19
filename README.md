@@ -46,6 +46,7 @@ Hoje, estou focado em aprender e evoluir como desenvolvedor **back-end em Java**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python (futuro)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/wordpress.png" height="40" alt="WordPress"/>
   <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" height="40" alt="Photoshop"/>
   <img src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" height="40" alt="Illustrator"/>
