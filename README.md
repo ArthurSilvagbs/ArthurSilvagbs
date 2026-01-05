@@ -1,24 +1,10 @@
-# 👩🏻‍💻 Larissa Kich
+# Arthur Silva
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor BackEnd Java`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou estudante de Análise e Desenvolvimento de Sistemas (5º semestre) na UCB. Minha trajetória profissional iniciou na área técnica (Projetos e Suporte de TI), onde desenvolvi uma forte capacidade de investigação e resolução de problemas. Decidi migrar para o desenvolvimento de software e, atualmente, dedico meus estudos de forma intensiva ao ecossistema Java Back-end. Consolidei os fundamentos da linguagem e SQL, e no momento estou aplicando JDBC e JPA em projetos práticos para dominar a persistência de dados antes de avançar para frameworks.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
