@@ -5,18 +5,18 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas (5º semestre) na UCB. Minha trajetória profissional iniciou na área técnica (Projetos e Suporte de TI), onde desenvolvi uma forte capacidade de investigação e resolução de problemas. Decidi migrar para o desenvolvimento de software e, atualmente, dedico meus estudos de forma intensiva ao ecossistema Java Back-end. Consolidei os fundamentos da linguagem e SQL, e no momento estou aplicando JDBC e JPA em projetos práticos para dominar a persistência de dados antes de avançar para frameworks.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ArthurSilvagbs?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/ArthurSilvagbs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/ArthurSilvagbs?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/ArthurSilvagbs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
