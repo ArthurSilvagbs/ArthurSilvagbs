@@ -1,67 +1,93 @@
-<h1 align="center">Arthur Gabriel</h1>
+<h1 align="center">Olá! Eu sou o Arthur Gabriel</h1>
+
+
 
 <p align="center">
-  <strong>Desenvolvedor Backend Java</strong> &nbsp;|&nbsp;
-  <strong>Estudante de ADS</strong>
+
+  <strong>Estudante de ADS</strong> &nbsp;|&nbsp;
+
+  <strong>Back-End</strong> &nbsp;|&nbsp;
+
+  <strong>Projetista Técnico</strong>
+
 </p>
 
+
+
 <p align="center">
+
   <a href="mailto:arthur.gbs.dev@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
   </a>
+
   <a href="https://www.linkedin.com/in/arthur-gabriel-borges-silva/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
   </a>
+
 </p>
 
----
 
-### Sobre
 
-Estudante de Análise e Desenvolvimento de Sistemas na UCB (5º Semestre). 
 
-Minha trajetória profissional iniciou na área técnica (infraestrutura e projetos), onde desenvolvi capacidade analítica e de resolução de problemas. Atualmente, estou em transição de carreira com foco total em **Engenharia de Software e Backend**.
-
-Meus estudos e práticas concentram-se no ecossistema **Java**, aplicando conceitos de Orientação a Objetos, persistência de dados e boas práticas de arquitetura.
 
 ---
 
-### Stack Tecnológica
 
-**Linguagens e Banco de Dados**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
 
-**Ferramentas e Versionamento**
-<div style="display: inline_block"><br>
-  <img align="center" alt="IntelliJ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
+### Sobre mim
 
----
 
-### Projetos Recentes
 
-- **Sistema de Gestão RH:** Aplicação backend para gerenciamento de funcionários.
-  - *Tech:* Java, JDBC, MySQL, DAO Pattern.
-- **Campo Minado:** Jogo de lógica via console.
-  - *Tech:* Java Core, Lógica de Algoritmos, Matrizes, Tratamento de Exceções.
+Sou de Brasília-DF e atualmente curso Análise e Desenvolvimento de Sistemas na UCB. Meu interesse por tecnologia surgiu ainda na escola, em atividades práticas com lógica e programação básica. Com o tempo, fui me aprofundando na área de desenvolvimento e infraestrutura, conciliando experiência prática com o estudo acadêmico.
+
+
+
+Hoje, estou focado em aprender e evoluir como desenvolvedor **back-end em Java**. Também tenho uma base em **design gráfico e UI/UX**, adquirida com o uso de ferramentas como Adobe Photoshop, Illustrator e construtores visuais como o Divi Builder. Busco construir uma trajetória sólida e ética, contribuindo com soluções que agreguem valor à vida das pessoas — e claro, garantir uma carreira estável e desafiadora.
+
+
 
 ---
 
-### Experiência Profissional
 
-**SS Inovatec** (2024 - Atual)
-*Projetista Técnico*
-- Análise lógica e dimensionamento de infraestrutura de redes.
-- Leitura e interpretação de documentação técnica.
+
+### Experiência
+
+
+
+**Projetista Orçamentista – SS Inovatec** (2024 - atual)  
+
+• Desenvolvimento de projetos técnicos em AutoCAD  
+
+• Instalação de redes, CFTV e sonorização  
+
+• Especificação e integração de equipamentos Intelbras
+
+
+
+**Desafio Liga Jovem – Semifinalista (2023)**  
+
+• Projeto social de educação sexual infantil com impacto nacional  
+
+• Apresentado no Bossa Summit, em São Paulo
+
+
 
 ---
 
-### Contato
 
-- **Email:** arthur.gbs.dev@gmail.com
-- **LinkedIn:** [linkedin.com/in/arthur-gabriel-borges-silva](https://www.linkedin.com/in/arthur-gabriel-borges-silva)
+
+### Tecnologias que uso ou estudo
+
+
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" height="40" alt="Java" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python (futuro)"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
