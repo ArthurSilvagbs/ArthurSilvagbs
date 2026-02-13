@@ -23,7 +23,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (5º semestre) na UCB. M
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Stack | Tecnologias
 
 <img 
     align="left" 
