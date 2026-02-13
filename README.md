@@ -113,5 +113,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (5º semestre) na UCB. M
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Swagger" 
+    title="Swagger"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
+/>
 <br/>
 <br/>
