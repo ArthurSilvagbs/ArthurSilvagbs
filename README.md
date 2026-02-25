@@ -152,14 +152,6 @@ Desenvolvedor Full Stack, atuando com NestJS e Java/Spring Boot na construção 
 />
 <img 
     align="left" 
-    alt="React Query" 
-    title="React Query"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactquery/reactquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Axios" 
     title="Axios"
     width="30px" 
