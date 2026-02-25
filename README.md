@@ -2,7 +2,20 @@
 
 **`Desenvolvedor BackEnd Java`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (5º semestre) na UCB. Minha trajetória profissional iniciou na área técnica (Projetos e Suporte de TI), onde desenvolvi uma forte capacidade de investigação e resolução de problemas. Decidi migrar para o desenvolvimento de software e, atualmente, dedico meus estudos de forma intensiva ao ecossistema Java Back-end. Consolidei os fundamentos da linguagem e SQL, e no momento estou aplicando JDBC e JPA em projetos práticos para dominar a persistência de dados antes de avançar para frameworks.
+Desenvolvedor Full Stack, atuando com NestJS e Java/Spring Boot na construção de APIs REST, e com Next.js e React no desenvolvimento de interfaces modernas. Aplico boas práticas de engenharia de software, código limpo e modelagem de dados em projetos práticos e profissionais.
+
+♦ Desenvolvimento de APIs REST escaláveis com NestJS e Java 21/Spring Boot 3.
+♦ Implementação de persistência de dados e regras de negócio com JPA/Hibernate e bancos relacionais e não relacionais.
+♦ Construção de interfaces modernas com Next.js, React e estilização com Tailwind CSS e Bootstrap.
+♦ Aplicação de padrões de projeto como DTO, validações e tratamento global de exceções.
+
+♦ Linguagens Principais: TypeScript, JavaScript, Java (17/21+) e SQL;
+♦ Frameworks & Libs: NestJS, Spring Boot, Next.js, React, Axios, Zod;
+♦ Banco de Dados: PostgreSQL, MySQL e MongoDB;
+♦ Estilização: Tailwind CSS, Bootstrap, HTML e CSS;
+♦ Ferramentas: Git, Docker, Maven e Swagger (OpenAPI);
+
+✉️ arthurborges2607@gmail.com
 
 <p align="left">
     <a href="https://github.com/ArthurSilvagbs?tab=repositories&sort=stargazers">
