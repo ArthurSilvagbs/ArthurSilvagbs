@@ -12,8 +12,8 @@ Desenvolvedor Full Stack, atuando com NestJS e Java/Spring Boot na construção 
 #### - Linguagens Principais: TypeScript, JavaScript, Java (17/21+) e SQL;
 #### - Frameworks & Libs: NestJS, Spring Boot, Next.js, React, Axios, Zod;
 #### - Banco de Dados: PostgreSQL, MySQL e MongoDB;
-#### - Estilização: Tailwind CSS, Bootstrap, HTML e CSS;
-#### - Ferramentas: Git, Docker, Maven e Swagger (OpenAPI);
+- Estilização: Tailwind CSS, Bootstrap, HTML e CSS;
+- Ferramentas: Git, Docker, Maven e Swagger (OpenAPI);
 
 ✉️ arthurborges2607@gmail.com
 
