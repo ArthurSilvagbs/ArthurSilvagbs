@@ -19,7 +19,7 @@ Desenvolvedor Full Stack, atuando com NestJS e Java/Spring Boot na construção 
 
 ---
 
-### Stack | Tecnologias
+# Stack | Tecnologias
 
 <img 
     align="left" 
