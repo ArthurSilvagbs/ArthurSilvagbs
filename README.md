@@ -135,11 +135,19 @@ Desenvolvedor Full Stack, atuando com NestJS e Java/Spring Boot na construção 
 />
 <img 
     align="left" 
-    alt="Axios" 
-    title="Axios"
+    alt="Bootstrap" 
+    title="Bootstrap"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TailwindCSS" 
+    title="TailwindCSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <br/>
 <br/>
