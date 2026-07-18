@@ -70,7 +70,11 @@ Open To:
 
 **Ferramentas & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,swagger,jira,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman" />
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 <br/>
 
