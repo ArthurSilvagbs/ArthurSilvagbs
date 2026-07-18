@@ -217,13 +217,6 @@ Implantação de infraestrutura de rede lógica e cabeamento estruturado.
 
 <br/>
 
-
-<br/>
-
----
-
-<br/>
-
 ## 🔹 Contribution Activity
 
 <div align="center">
