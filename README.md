@@ -72,10 +72,6 @@ Open To:
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman" />
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1e1b4b?style=for-the-badge&labelColor=0D0221&color=6D28D9&logo=githubactions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-1e1b4b?style=for-the-badge&labelColor=0D0221&color=8B5CF6&logo=swagger&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-1e1b4b?style=for-the-badge&labelColor=0D0221&color=A855F7&logo=jira&logoColor=white)
-
 <br/>
 
 ---
