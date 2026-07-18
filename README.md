@@ -217,30 +217,6 @@ Implantação de infraestrutura de rede lógica e cabeamento estruturado.
 
 <br/>
 
-## 🔹 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArthurSilvagbs&show_icons=true&count_private=true&hide_border=true&bg_color=0D0221&title_color=A855F7&text_color=C4B5FD&icon_color=8B5CF6&border_color=6D28D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurSilvagbs&hide_border=true&background=0D0221&ring=8B5CF6&fire=A855F7&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=8B7BA8" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilvagbs&layout=compact&hide_border=true&bg_color=0D0221&title_color=A855F7&text_color=C4B5FD&langs_count=8" width="49%"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 🔹 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArthurSilvagbs&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" />
-
-</div>
 
 <br/>
 
