@@ -239,7 +239,6 @@ Implantação de infraestrutura de rede lógica e cabeamento estruturado.
 
 </div>
 
-> Gerado via [platane/snk](https://github.com/Platane/snk) — requer o workflow do GitHub Actions configurado no repo `ArthurSilvagbs/ArthurSilvagbs`.
 
 <br/>
 
